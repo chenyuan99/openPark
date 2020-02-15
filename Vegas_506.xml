@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Again</folder>
+	<filename>Vegas_506.jpg</filename>
+	<path>C:\Users\khoal\Desktop\Sattelite\Khoa\Again\Vegas_506.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>650</width>
+		<height>650</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>parking lot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>274</xmin>
+			<ymin>342</ymin>
+			<xmax>425</xmax>
+			<ymax>373</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>parking lot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>431</xmin>
+			<ymin>350</ymin>
+			<xmax>488</xmax>
+			<ymax>369</ymax>
+		</bndbox>
+	</object>
+</annotation>

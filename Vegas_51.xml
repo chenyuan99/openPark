@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Lots JPEGS</folder>
+	<filename>Vegas_51.jpg</filename>
+	<path>/Users/alexlambrides/Desktop/School/Capstone/Lots JPEGS/Vegas_51.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>650</width>
+		<height>650</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>parking lot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>67</xmin>
+			<ymin>579</ymin>
+			<xmax>86</xmax>
+			<ymax>645</ymax>
+		</bndbox>
+	</object>
+</annotation>

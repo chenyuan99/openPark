@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Thomas</folder>
+	<filename>733.jpg</filename>
+	<path>C:\Users\khoal\Desktop\Sattelite\Thomas\733.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>650</width>
+		<height>650</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>parking lot</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>551</xmin>
+			<ymin>572</ymin>
+			<xmax>576</xmax>
+			<ymax>650</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>parking lot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>479</xmin>
+			<ymin>540</ymin>
+			<xmax>500</xmax>
+			<ymax>643</ymax>
+		</bndbox>
+	</object>
+</annotation>

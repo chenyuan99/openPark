@@ -1,0 +1,38 @@
+<annotation>
+	<folder>NewRasters</folder>
+	<filename>69.jpg</filename>
+	<path>C:\Users\khoal\Desktop\Sattelite\NewRasters\69.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>650</width>
+		<height>650</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>parking lot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>564</ymin>
+			<xmax>77</xmax>
+			<ymax>600</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>parking lot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>122</xmin>
+			<ymin>612</ymin>
+			<xmax>206</xmax>
+			<ymax>646</ymax>
+		</bndbox>
+	</object>
+</annotation>

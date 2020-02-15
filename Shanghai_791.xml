@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Shanghai2</folder>
+	<filename>Shanghai_791.jpg</filename>
+	<path>C:\Users\khoal\Desktop\Sattelite\Shanghai2\Shanghai_791.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>650</width>
+		<height>650</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>parking lot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>484</xmin>
+			<ymin>590</ymin>
+			<xmax>608</xmax>
+			<ymax>614</ymax>
+		</bndbox>
+	</object>
+</annotation>
