@@ -2,7 +2,7 @@
 
 openparking is an open source software which allows to find parking slot
 
-[Imgur](https://i.imgur.com/a4WRGmE.png)
+<img src="https://i.imgur.com/a4WRGmE.png" title="source: imgur.com" ></img>
 
 ### Markdown
 
