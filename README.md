@@ -2,7 +2,7 @@
 
 openparking is an open source software which allows to find parking slot
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Imgur](https://i.imgur.com/a4WRGmE.png)
 
 ### Markdown
 
@@ -49,4 +49,4 @@ NO WARRANTY EXPRESSED OR IMPLIED.**
 
 ---
 
-<img src="https://imgur.com/a4WRGmE" width="75"></img> <img src="https://cdn-images-1.medium.com/max/1600/1*C87EjxGeMPrkTuVRVWVg4w.png" width="225"></img>
+<img src="https://cdn-images-1.medium.com/max/1600/1*C87EjxGeMPrkTuVRVWVg4w.png" width="225"></img>
