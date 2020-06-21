@@ -39,7 +39,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 Licensing
 ------
 
-openpilot is released under the MIT license. Some parts of the software are released under other licenses as specified.
+openparking is released under the MIT license. Some parts of the software are released under other licenses as specified.
 
 Any user of this software shall indemnify and hold harmless Yuan Chen and customers from and against all allegations, claims, actions, suits, demands, damages, liabilities, obligations, losses, settlements, judgments, costs and expenses (including without limitation attorneys’ fees and costs) which arise out of, relate to or result from any use of this software by user.
 
