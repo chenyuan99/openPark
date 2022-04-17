@@ -12,6 +12,11 @@ openparking is an open source software which allows to find parking slot
 
 ## Conclusion and Future Work
 
+## Competition
+
+- VTHacks 2021
+
+- HackRice 2022
+
 ## Reference
 - https://github.com/hanyiabc/Mask_RCNN
-- https://github.com/matterport/Mask_RCNN
