@@ -1,5 +1,7 @@
 # openPark: an open source software which allows to find parking slot
 
+[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/9886/badge)](https://www.bestpractices.dev/projects/9886)
+
 
 ## Introduction
 
